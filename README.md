@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📢 Would like to be Front End Developer.
 - 🔭 I’m currently working on a 2d game and some websites.
 - 🌱 I’m currently learning csharp and javascript.
-- 📫 How to reach me: Discord: Savokar#3344 or Twitter: Savokar
+- 📫 How to reach me: Discord: Savokar#3344

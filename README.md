@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 📢 Would like to be Front End Developer.
+- 📢 Would like to be Front End Developer or game developer.
 - 🔭 I’m currently working on a 2d game and some websites.
 - 🌱 I’m currently learning csharp and javascript.
 - 📫 How to reach me: Discord: Savokar#3344
